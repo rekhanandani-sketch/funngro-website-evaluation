@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-labelledby="title">
+  <title id="title">Funngro mark</title>
+  <rect x="1" y="1" width="38" height="38" rx="12" fill="#17392d"/>
+  <path d="M11 24.2c4.2-8.8 10.4-11.1 18-10.4-1.1 8.8-5.7 15.1-14.9 15.1" fill="none" stroke="#c7e87d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+  <path d="M14.3 27.7c2-4.4 5.2-7.4 9.2-9.4" fill="none" stroke="#c7e87d" stroke-linecap="round" stroke-width="2.7"/>
+</svg>
